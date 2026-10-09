@@ -9,9 +9,9 @@
 
 > Borrar los datos de ejemplo y poner los datos reales
 
-* **FACELLI, PABLO**:
-* **3**:
-* **32379620**:
+* **APELLIDO, NOMBRE**: FACELLI, PABLO
+* **COMISIÓN**: 3
+* **DNI**: 32379620
 
 > * Manuel Sadosky fue el impulsor de la llegada de Clementina, la primera computadora científica de Latinoamérica, y fundador en 1963 de la primera carrera de Computador Científico en la UBA.
 
